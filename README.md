@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Mohamed 👋
 
-<!--
-**Malcomtheboy/Malcomtheboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT & Management graduate from the University of South-Eastern Norway (2026), based in Oslo.
+I build full-stack web and mobile applications and I'm looking for my first role as a software engineer.
 
-Here are some ideas to get you started:
+🌐 Portfolio: [devmyc.no](https://devmyc.no) · 💼 [LinkedIn](https://linkedin.com/in/mohamed-hussein-70b5682a1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+**Rihla** – Islamic learning mobile app *(co-founder, in development)*
+React Native (Expo), TypeScript, Next.js admin app, Tailwind. I own the home screen and the Quran & Hadith section.
+
+**Noragentic Client & Admin Platform** – bachelor project
+Full-stack communication and project-management platform for the company Noragentic. REST APIs, authentication, role-based access, real-time chat and project tracking with Firebase/Firestore.
+
+**Go123Movies** – web application
+Java web app following MVC, with MySQL via JDBC, SQL queries and backend logic.
+
+**Malcom's Barbershop** – booking website
+Responsive booking site in HTML, CSS and JavaScript with Firebase Realtime Database.
+
+## Tech
+JavaScript · TypeScript · React Native · Next.js · Java · SQL/MySQL · Firebase · Git
