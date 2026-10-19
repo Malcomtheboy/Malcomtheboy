@@ -1,9 +1,9 @@
-# Hi, I'm Mohamed 👋
+# Hi, I'm Mohamed 
 
 IT & Management graduate from the University of South-Eastern Norway (2026), based in Oslo.
 I build full-stack web and mobile applications and I'm looking for my first role as a software engineer.
 
-🌐 Portfolio: [devmyc.no](https://devmyc.no) · 💼 [LinkedIn](https://linkedin.com/in/mohamed-hussein-70b5682a1)
+🌐 Portfolio: [devmyc.no](https://devmyc.no) ·  [LinkedIn](https://linkedin.com/in/mohamed-hussein-70b5682a1)
 
 ## Projects
 
